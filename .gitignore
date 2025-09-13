@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+
+# Cài đặt Python
+venv/
+.venv/
+ENV/
+env/
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Runtime
+bot.pid
+*.pid
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Hệ thống
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.orig
+
+# Docker
+.docker/
+
+# Dữ liệu
+*.db
+*.sqlite
+*.sqlite3
+**/data/**
+!**/data/.gitkeep 
+
+frontend/node_modules
